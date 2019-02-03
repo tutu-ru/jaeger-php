@@ -22,5 +22,8 @@
     "files": [
       "src/Jaeger/Constants.php"
     ]
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.5"
   }
 }
